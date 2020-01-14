@@ -1,0 +1,9 @@
+---
+title: "Universidad Politécnica de Gómez Palacio"
+---
+
+![](images/logo.jpg)
+
+## Asignatura
+
+### __Métodos Cuantitativos para la Toma de Decisiones__
