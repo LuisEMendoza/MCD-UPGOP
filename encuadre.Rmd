@@ -18,4 +18,4 @@ UNIDAD II. Derivación.
 
 UNIDAD III. Integración.
 
-UNIDAD IV. Aplicaciones básicas del Cálculo.
+UNIDAD IV. Aplicaciones básicas.
